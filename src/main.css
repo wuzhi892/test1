@@ -1,0 +1,9 @@
+li{
+    list-style: none;
+}
+td{
+    height:30px;
+    line-height:30px;
+    border:1px solid #ccc;
+    padding:0 10px;
+}
